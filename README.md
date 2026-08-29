@@ -4,7 +4,7 @@
 
 # Sanket Padhyal
 
-**Full Stack Developer · AI Builder · Web3 Explorer**
+**Full Stack Developer · App Developer · AI Builder · Web3 Explorer**
 
 Building products with code, curiosity & caffeine.
 
@@ -16,6 +16,8 @@ Building products with code, curiosity & caffeine.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
@@ -23,11 +25,6 @@ Building products with code, curiosity & caffeine.
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square\&logo=solidity\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanketpadhyal.world-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sanketpadhyal.world)
-[![GitHub](https://img.shields.io/badge/GitHub-@sanketpadhyal-111111?style=for-the-badge\&logo=github)](https://github.com/sanketpadhyal)
 
 </div>
 
@@ -41,18 +38,3 @@ AI & Web3 enthusiast
 App Developer
 Product-focused builder
 Open-source learner
-```
-
-### `> currently_building`
-
-`iClora` · `Sparse` · `Rivo Agent` · `DeStorage`
-
-### `> interests`
-
-`AI` `Web3` `Cloud` `Cybersecurity` `Developer Tools` `Product Engineering`
-
-<div align="center">
-
-**Build → Break → Learn → Repeat**
-
-</div>
