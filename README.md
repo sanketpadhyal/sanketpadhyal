@@ -4,8 +4,6 @@
 
 # Sanket Padhyal
 
-**Full Stack Developer · App Developer · Web3 Explorer**
-
 Building products with code, curiosity & caffeine.
 
 <br>
