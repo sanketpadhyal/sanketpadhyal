@@ -23,6 +23,8 @@ Building products with code, curiosity & caffeine.
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square\&logo=solidity\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Pinata](https://img.shields.io/badge/Pinata-FFDD00?style=flat-square&logoColor=black)
+![Wallet](https://img.shields.io/badge/Wallet-000000?style=flat-square\&logo=ethereum\&logoColor=white)
 
 </div>
 
