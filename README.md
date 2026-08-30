@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./wp5010036-modified.webp" width="120" height="120" style="border-radius:50%">
+<img src="./6098172555060516346.jpg" width="120" height="120" style="border-radius:50%">
 
 ---
 
