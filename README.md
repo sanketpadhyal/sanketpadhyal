@@ -37,4 +37,5 @@ AI & Web3 Developer
 App & Webapp Developer
 SAAS Developer
 Product Designer
+Cloud Engineer
 Open-source Developer
