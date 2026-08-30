@@ -2,9 +2,8 @@
 
 <img src="./wp5010036-modified.webp" width="120" height="120" style="border-radius:50%">
 
-# Sanket Padhyal
+---
 
-Building products with code, curiosity & caffeine.
 
 <br>
 
