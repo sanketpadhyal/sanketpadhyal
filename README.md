@@ -32,7 +32,7 @@ Building products with code, curiosity & caffeine.
 
 ```txt
 Full Stack Developer
-AI & Web3 enthusiast
+AI & Web3 Developer
 App Developer
-Product-focused builder
-Open-source learner
+Product Designer
+Open-source Developer
