@@ -32,6 +32,7 @@ Building products with code, curiosity & caffeine.
 
 ```txt
 Full Stack Developer
+Backend Developer
 AI & Web3 Developer
 App & Webapp Developer
 SAAS Developer
