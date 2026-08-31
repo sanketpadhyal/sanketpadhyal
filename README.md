@@ -28,7 +28,7 @@
 Full Stack Developer
 Backend Developer
 AI & Web3 Developer
-App & Webapp Developer
+App & Web app Developer
 SAAS Developer
 Product Designer
 Cloud Engineer
