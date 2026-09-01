@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="./6098172555060516346.jpg" width="120" height="120" style="border-radius:50%">](https://tenor.com/view/laugh-dog-gif-4207567105497530447)
+<img src="laugh-dog.gif" width="120" height="170" style="border-radius:50%">
 
 ---
 
