@@ -24,10 +24,9 @@
 
 ### `> whoami`
 
+![LAZY BOY](https://img.shields.io/badge/LAZY%20BOY!%20🧟-3178C6?style=for-the-badge&labelColor=3178C6&color=3178C6)
+
 ```txt
-┌──────────────────┐
-│   LAZY BOY! 🧟   │
-└──────────────────┘
 Full Stack Developer
 Backend Developer
 AI & Web3 Developer
