@@ -25,9 +25,9 @@
 ### `> whoami`
 
 ```txt
--------------------
--  LAZY BOY! 🧟   -
--------------------
+┌──────────────────┐
+│   LAZY BOY! 🧟   │
+└──────────────────┘
 Full Stack Developer
 Backend Developer
 AI & Web3 Developer
